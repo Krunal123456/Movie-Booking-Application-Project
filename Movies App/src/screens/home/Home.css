@@ -19,7 +19,7 @@
 .movie-poster2{
     height: 100%;
     width: auto;
-
+    
 }
 
 .flex-container {
@@ -32,6 +32,10 @@
 .left {
     width: 76%;
 }
+.right {
+    padding-top: 20px;
+    width: 24%;
+}
 
 
 @media (max-width: 992px) {
@@ -41,7 +45,10 @@
     .left {
         width: 100%;
     }
+    .right {
+        width: 90%;
+    }
     .released-movie-grid-item {
         margin: 8px;
     }
-} 
+}
