@@ -1,7 +1,7 @@
 let moviesData = [
     {
         id: "M1",
-        title: "The Yashfather",
+        title: "The Godfather",
         storyline: "A chilling portrait of the Corleone family's rise and near fall from power in America along with balancing the story of the Sicilian clan's ugly crime business in which they are engaged.",
         genres: [
             "Crime",
